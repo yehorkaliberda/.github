@@ -13,5 +13,4 @@ AI Systems Architect. Building things that used to need a team.
 | Project | Status | What it does |
 |---|---|---|
 | [yehor.ai](https://github.com/yehorkaliberda/yehor.ai) | 🌱 building | The living lab portfolio |
-| CallMed AI | 🌿 live | AI voice receptionist for medical clinics |
-| Symbiote | 🔬 growing | Autonomous codebase evolution via agent swarms |
+| [CallMed AI](https://callmedai.com/) | 🌿 live | Symbiote, our multi-agent engine, maps your Python repository's dependency graph and delivers PEP 484 type annotations as a single reviewable Pull Request. |
